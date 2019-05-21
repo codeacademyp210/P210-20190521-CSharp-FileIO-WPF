@@ -1,0 +1,10 @@
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\bin\Debug\FilesIOProject.exe.config
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\bin\Debug\FilesIOProject.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\bin\Debug\FilesIOProject.pdb
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.csprojAssemblyReference.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.Form1.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.Properties.Resources.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.csproj.GenerateResource.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190521\Solution20190521\FilesIOProject\obj\Debug\FilesIOProject.pdb

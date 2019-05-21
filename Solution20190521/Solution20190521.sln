@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesIOProject", "FilesIOProject\FilesIOProject.csproj", "{35DB7108-3419-469E-89A2-D01839B457BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo", "WpfDemo\WpfDemo.csproj", "{91AE93C9-29F9-490C-AF41-4A524B610EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DB7108-3419-469E-89A2-D01839B457BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DB7108-3419-469E-89A2-D01839B457BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DB7108-3419-469E-89A2-D01839B457BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DB7108-3419-469E-89A2-D01839B457BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AE93C9-29F9-490C-AF41-4A524B610EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AE93C9-29F9-490C-AF41-4A524B610EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AE93C9-29F9-490C-AF41-4A524B610EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AE93C9-29F9-490C-AF41-4A524B610EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D7CEEDD-4A80-41A4-809E-E3A52E27AE10}
+	EndGlobalSection
+EndGlobal
